@@ -153,6 +153,9 @@ Wilcoxon both *p* < 10⁻³), consistent with Fan & Machemehl (2006).
 └── results/              # CSV outputs + figures (generated)
 ```
 
+## Acknowledgements
+"In making of this project AI tools are used to convert cluttered report parts into a given latex format as well as cleaning and engineering the python code."
+
 ## License
 
 MIT
