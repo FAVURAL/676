@@ -1,0 +1,4 @@
+test,statistic,p_value
+welch_t,-4.6503,0.000043
+mann_whitney_u,67.0000,0.000338
+wilcoxon,12.0000,0.000134

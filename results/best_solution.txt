@@ -1,0 +1,12 @@
+  Routes (4):
+    R1: 3-6-9-8-11-12-14  (len=14.7 km, h=7.3 min, L=1.00)
+    R2: 6-9-8-10-12-13-15  (len=15.5 km, h=5.2 min, L=1.00)
+    R3: 6-4-7-8-11-9  (len=13.8 km, h=6.0 min, L=1.00)
+    R4: 1-3-4-7-10-12-14  (len=15.6 km, h=5.8 min, L=1.00)
+  Objective z          :    45361.1
+    user cost          :    99285.3
+    operator cost      :     9797.5
+    unsatisfied cost   :     8640.0
+  Unsatisfied demand   :  12.05 %
+  Fleet used / avail.  : 39.2 / 58
+  Feasible             : True
